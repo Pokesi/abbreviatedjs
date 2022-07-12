@@ -12,7 +12,7 @@
 /build
 
 ## ajs
-/src/*.js
+*.js
 
 # misc
 .DS_Store
