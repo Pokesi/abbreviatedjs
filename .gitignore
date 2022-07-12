@@ -13,6 +13,7 @@
 
 ## ajs
 *.js
+!/src/code.js
 
 # misc
 .DS_Store
